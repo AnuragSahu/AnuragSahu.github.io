@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://saumyagshah.github.io/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/authors/admin/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/authors/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/post/jupyter/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/post/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/tags/academic/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/tags/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/project/internal-project/epflsemexproject/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/project/internal-project/auquan/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/project/internal-project/summerepfl/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/project/internal-project/cs771xproject/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/project/internal-project/jsoc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/project/internal-project/kritsnam/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/tags/ml-for-learning-disabilities/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/tags/machine-learning/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/project/internal-project/vrproject/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/project/internal-project/summer2018project/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/tags/other/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/tags/probabilistic-ml/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/project/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/publication_types/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/tags/robotics/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/project/internal-project/ugp4thsem/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/project/internal-project/cs698xproject/</loc>
+  </url>
+  
+</urlset>

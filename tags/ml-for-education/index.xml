@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ML for Education on Saumya Gaurang Shah</title>
+    <link>https://saumyagshah.github.io/tags/ml-for-education/</link>
+    <description>Recent content in ML for Education on Saumya Gaurang Shah</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="https://saumyagshah.github.io/tags/ml-for-education/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Analysing Correlations between Drawing and Writing on a Consumer Tablet</title>
+      <link>https://saumyagshah.github.io/project/internal-project/epflsemexproject/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://saumyagshah.github.io/project/internal-project/epflsemexproject/</guid>
+      <description>&lt;p&gt;This is an ongoing project with the aim to analyse correlation between drawing and writing data for kids performing these tasks on a consumer tablet. The comparison between drawing and writing shall be made between kids of different grades using about a 100 features based on tilt, pressure and veloocity of the strokes. Since the kids inhigher grades can be expected to be more proficient in writing, our analysis can give insights into the transfer of skills between the tasks of drawing and writing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Diagnosing Dysgraphia Using Handwriting Data Analysis</title>
+      <link>https://saumyagshah.github.io/project/internal-project/summerepfl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://saumyagshah.github.io/project/internal-project/summerepfl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
