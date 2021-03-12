@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Saumya Shah</title>
-    <link>https://saumyagshah.github.io/</link>
+    <link>https://AnuragSahu.github.io/</link>
     <description>Recent content on Saumya Shah</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 May 2019 00:00:00 +0100</lastBuildDate>
     
-	    <atom:link href="https://saumyagshah.github.io/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://AnuragSahu.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Example Page 1</title>
-      <link>https://saumyagshah.github.io/courses/example/example1/</link>
+      <link>https://AnuragSahu.github.io/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://saumyagshah.github.io/courses/example/example1/</guid>
+      <guid>https://AnuragSahu.github.io/courses/example/example1/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
@@ -49,10 +49,10 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>https://saumyagshah.github.io/courses/example/example2/</link>
+      <link>https://AnuragSahu.github.io/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://saumyagshah.github.io/courses/example/example2/</guid>
+      <guid>https://AnuragSahu.github.io/courses/example/example2/</guid>
       <description>
 
 &lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
@@ -85,10 +85,10 @@
     
     <item>
       <title>JSoC2019: Mixed Membership Stichastic BlockModel</title>
-      <link>https://saumyagshah.github.io/post/jupyter/</link>
+      <link>https://AnuragSahu.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://saumyagshah.github.io/post/jupyter/</guid>
+      <guid>https://AnuragSahu.github.io/post/jupyter/</guid>
       <description>
 
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
@@ -148,10 +148,10 @@ rm Untitled.md
     
     <item>
       <title>Slides</title>
-      <link>https://saumyagshah.github.io/slides/example/</link>
+      <link>https://AnuragSahu.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://saumyagshah.github.io/slides/example/</guid>
+      <guid>https://AnuragSahu.github.io/slides/example/</guid>
       <description>
 
 &lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
@@ -330,10 +330,10 @@ $$&lt;/p&gt;
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>https://saumyagshah.github.io/post/getting-started/</link>
+      <link>https://AnuragSahu.github.io/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://saumyagshah.github.io/post/getting-started/</guid>
+      <guid>https://AnuragSahu.github.io/post/getting-started/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
@@ -426,8 +426,8 @@ $$&lt;/p&gt;
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://saumyagshah.github.io/post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
-  &lt;img src=&#34;https://saumyagshah.github.io/post/getting-started/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://AnuragSahu.github.io/post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
+  &lt;img src=&#34;https://AnuragSahu.github.io/post/getting-started/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -453,8 +453,8 @@ $$&lt;/p&gt;
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://saumyagshah.github.io/post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
-  &lt;img src=&#34;https://saumyagshah.github.io/post/getting-started/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://AnuragSahu.github.io/post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
+  &lt;img src=&#34;https://AnuragSahu.github.io/post/getting-started/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -480,8 +480,8 @@ $$&lt;/p&gt;
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://saumyagshah.github.io/post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
-  &lt;img src=&#34;https://saumyagshah.github.io/post/getting-started/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://AnuragSahu.github.io/post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
+  &lt;img src=&#34;https://AnuragSahu.github.io/post/getting-started/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -507,8 +507,8 @@ $$&lt;/p&gt;
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://saumyagshah.github.io/post/getting-started/gallery/theme-cupcake.png&#34; data-caption=&#34;Cupcake&#34;&gt;
-  &lt;img src=&#34;https://saumyagshah.github.io/post/getting-started/gallery/theme-cupcake_hueba8cfa8cfbc7543924fcbf387a99e92_23986_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://AnuragSahu.github.io/post/getting-started/gallery/theme-cupcake.png&#34; data-caption=&#34;Cupcake&#34;&gt;
+  &lt;img src=&#34;https://AnuragSahu.github.io/post/getting-started/gallery/theme-cupcake_hueba8cfa8cfbc7543924fcbf387a99e92_23986_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -534,8 +534,8 @@ $$&lt;/p&gt;
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://saumyagshah.github.io/post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
-  &lt;img src=&#34;https://saumyagshah.github.io/post/getting-started/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://AnuragSahu.github.io/post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
+  &lt;img src=&#34;https://AnuragSahu.github.io/post/getting-started/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -561,8 +561,8 @@ $$&lt;/p&gt;
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://saumyagshah.github.io/post/getting-started/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
-  &lt;img src=&#34;https://saumyagshah.github.io/post/getting-started/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://AnuragSahu.github.io/post/getting-started/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
+  &lt;img src=&#34;https://AnuragSahu.github.io/post/getting-started/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -588,8 +588,8 @@ $$&lt;/p&gt;
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://saumyagshah.github.io/post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
-  &lt;img src=&#34;https://saumyagshah.github.io/post/getting-started/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://AnuragSahu.github.io/post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
+  &lt;img src=&#34;https://AnuragSahu.github.io/post/getting-started/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -615,8 +615,8 @@ $$&lt;/p&gt;
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://saumyagshah.github.io/post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
-  &lt;img src=&#34;https://saumyagshah.github.io/post/getting-started/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://AnuragSahu.github.io/post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
+  &lt;img src=&#34;https://AnuragSahu.github.io/post/getting-started/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
 
@@ -659,94 +659,94 @@ $$&lt;/p&gt;
     
     <item>
       <title>Analysing Relationship Between Writing and Drawing Skills</title>
-      <link>https://saumyagshah.github.io/project/internal-project/epflsemexproject/</link>
+      <link>https://AnuragSahu.github.io/project/internal-project/epflsemexproject/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://saumyagshah.github.io/project/internal-project/epflsemexproject/</guid>
+      <guid>https://AnuragSahu.github.io/project/internal-project/epflsemexproject/</guid>
       <description>&lt;p&gt;This is an ongoing project with the aim to analyse correlation between drawing and writing data for kids performing these tasks on a consumer tablet. The comparison between drawing and writing shall be made between kids of different grades using about a 100 features based on tilt, pressure and veloocity of the strokes. Since the kids inhigher grades can be expected to be more proficient in writing, our analysis can give insights into the transfer of skills between the tasks of drawing and writing.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Auquan, Bangalore, India</title>
-      <link>https://saumyagshah.github.io/project/internal-project/auquan/</link>
+      <link>https://AnuragSahu.github.io/project/internal-project/auquan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://saumyagshah.github.io/project/internal-project/auquan/</guid>
+      <guid>https://AnuragSahu.github.io/project/internal-project/auquan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diagnosing Dysgraphia Using Handwriting Data Analysis</title>
-      <link>https://saumyagshah.github.io/project/internal-project/summerepfl/</link>
+      <link>https://AnuragSahu.github.io/project/internal-project/summerepfl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://saumyagshah.github.io/project/internal-project/summerepfl/</guid>
+      <guid>https://AnuragSahu.github.io/project/internal-project/summerepfl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explainable Machine Learning</title>
-      <link>https://saumyagshah.github.io/project/internal-project/cs771xproject/</link>
+      <link>https://AnuragSahu.github.io/project/internal-project/cs771xproject/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://saumyagshah.github.io/project/internal-project/cs771xproject/</guid>
+      <guid>https://AnuragSahu.github.io/project/internal-project/cs771xproject/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Julia Seasons of Contributions</title>
-      <link>https://saumyagshah.github.io/project/internal-project/jsoc/</link>
+      <link>https://AnuragSahu.github.io/project/internal-project/jsoc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://saumyagshah.github.io/project/internal-project/jsoc/</guid>
+      <guid>https://AnuragSahu.github.io/project/internal-project/jsoc/</guid>
       <description>&lt;p&gt;The final blog post summarising the work done and describing the plans for the future can be viewed &lt;a href=&#34;https://github.com/TuringLang/TuringExamples&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Kritsnam Technologies</title>
-      <link>https://saumyagshah.github.io/project/internal-project/kritsnam/</link>
+      <link>https://AnuragSahu.github.io/project/internal-project/kritsnam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://saumyagshah.github.io/project/internal-project/kritsnam/</guid>
+      <guid>https://AnuragSahu.github.io/project/internal-project/kritsnam/</guid>
       <description>&lt;p&gt;During this internship, I worked with Atlas Scientific pH, EC, DO and Temperature sensors. After exploring their working and physical principles, I integrated these sensors with Particle Electron Embedded Platform. This was done via mobile data(2G) to retrieve the data for the aforementioned sensors using Atlas Scientific EZO Circuits. Then, using this data, I proposed a regression technique to cut costs by establishing a relationship between the analog signals received from the sensors and their corresponding physical quantity.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Model Zoo for Unsupervised Transfer Learning</title>
-      <link>https://saumyagshah.github.io/project/internal-project/vrproject/</link>
+      <link>https://AnuragSahu.github.io/project/internal-project/vrproject/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://saumyagshah.github.io/project/internal-project/vrproject/</guid>
+      <guid>https://AnuragSahu.github.io/project/internal-project/vrproject/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiple Sensors Dataset Repository.</title>
-      <link>https://saumyagshah.github.io/project/internal-project/summer2018project/</link>
+      <link>https://AnuragSahu.github.io/project/internal-project/summer2018project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://saumyagshah.github.io/project/internal-project/summer2018project/</guid>
+      <guid>https://AnuragSahu.github.io/project/internal-project/summer2018project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SLAM: Extraction of Backend Data and Comparison of Backend Solvers</title>
-      <link>https://saumyagshah.github.io/project/internal-project/ugp4thsem/</link>
+      <link>https://AnuragSahu.github.io/project/internal-project/ugp4thsem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://saumyagshah.github.io/project/internal-project/ugp4thsem/</guid>
+      <guid>https://AnuragSahu.github.io/project/internal-project/ugp4thsem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scaling Up Gaussian Processes</title>
-      <link>https://saumyagshah.github.io/project/internal-project/cs698xproject/</link>
+      <link>https://AnuragSahu.github.io/project/internal-project/cs698xproject/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://saumyagshah.github.io/project/internal-project/cs698xproject/</guid>
+      <guid>https://AnuragSahu.github.io/project/internal-project/cs698xproject/</guid>
       <description></description>
     </item>
     
