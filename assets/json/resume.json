@@ -1,36 +1,36 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Anurag Sahu",
+    "label": "Software Development Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "anuragsahu926@gmail.com",
+    "phone": "+(91) 8602043478",
+    "url": "https://anuragsahu.github.io/",
+    "summary": "IIIT Hyderabad graduate working with OLA Electric Developing Computer Vision Based Inspection Systems",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Bengaluru",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Ola Electric",
+      "position": "Software Development Engineer-I",
+      "url": "",
+      "startDate": "2022-05-15",
+      "endDate": "",
+      "summary": "Developing Computer Vision Based Inspection Systems",
+      "highlights": ["Computer Vision", "Backend Systems"]
     }
   ],
   "volunteer": [
@@ -47,24 +47,24 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "IIIT Hyderabad",
+      "location": "Hyderabad, India",
+      "url": "https://www.iiit.ac.in/",
+      "area": "Computer Science",
+      "studyType": "BTech + MS by Research",
+      "startDate": "2018-06-01",
+      "endDate": "2022-06-01",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Mobile Robotics", "Computer Vision", "Statistical Methods in AI"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Deans List award",
+      "date": "2020-06-01",
+      "awarder": "IIIT Hyderabad",
+      "url": "",
+      "summary": "An Award present to Student who are in top 5% of the class."
     }
   ],
   "certificates": [
