@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - anuragsahu
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - AnuragSahu/Python-Messenger
+  - AnuragSahu/pix3d_from_dae
+  - AnuragSahu/Visual-Odometry
+  - AnuragSahu/Stereo-Dense-Reconstruction
