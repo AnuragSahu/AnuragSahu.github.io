@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Computer Vision & Software Development @ <a href='https://www.olaelectric.com/> OLA </a> | <a href='https://www.iiit.ac.in/'>IIIT Hyderabad</a>
 
 profile:
   align: right
