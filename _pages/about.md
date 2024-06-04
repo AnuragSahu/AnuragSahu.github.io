@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Vision & Software Development @ <a href='https://www.olaelectric.com/> OLA </a> | <a href='https://www.iiit.ac.in/'>IIIT Hyderabad</a>
+subtitle: Computer Vision & Software Development @ <a href='https://www.olaelectric.com/'> OLA </a> | <a href='https://www.iiit.ac.in/'>IIIT Hyderabad</a>
 
 profile:
   align: right
