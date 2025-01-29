@@ -56,23 +56,16 @@
             </a>
           </li>
 
-          <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
+          <!-- CV -->
+          <li class="nav-item {% if page.permalink == '/cv/' %}active{% endif %}">
             <a class="nav-link" href="{{ '/cv/' | relative_url }}">
-              {{- cv_title }}
-              {% if page.permalink == '/' %}
+              CV
+              {% if page.permalink == '/cv/' %}
                 <span class="sr-only">(current)</span>
               {% endif %}
             </a>
           </li>
 
-          <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
-            <a class="nav-link" href="{{ '/projects/' | relative_url }}">
-              {{- projects_title }}
-              {% if page.permalink == '/' %}
-                <span class="sr-only">(current)</span>
-              {% endif %}
-            </a>
-          </li>
 
           <!-- Other pages -->
           <!-- {% assign sorted_pages = site.pages | sort: 'nav_order' %}
