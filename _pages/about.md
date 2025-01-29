@@ -23,8 +23,6 @@ At OLA Electric (SDE 2, Computer Vision & Software Development), I have develope
 
 My technical expertise spans Computer Vision & Machine Learning (OpenCV, YOLOv8, TensorFlow, PyTorch), Software Development (Python, Java (Spring Boot), REST APIs), Robotics & 3D Vision (RealSense D455, ArUco markers, Hand-Eye Calibration), Data Processing & Optimization (Multithreading, Web Scraping optimized to fetch 85 files in 15 minutes), and Cloud & DevOps (Google Cloud, Docker).
 
-I have earned several certifications and achievements, including the LeetCode 100 Days Badge for problem-solving skills, a promotion from SDE 1 to SDE 2 at OLA Electric, and a 20% salary raise over two years. I have also completed Stats 203 coursework to strengthen my statistical modeling skills and am currently pursuing a certification to enhance my Machine Learning Engineer credentials.
-
 My projects and research include designing a 3D Printable Mobile Stand (an OBJ model for a stand to hold a phone, earphones, and a watch), building a Drone Tracking System using stereo cameras and computer vision techniques, developing an ArUco-based Calibration Prop for extrinsic camera calibration, and working on an Avatar Creation Pipeline, a LinkedIn blog series on ML-based avatar generation for mobile platforms.
 
 I am actively seeking new opportunities in Dubai as a Computer Vision Engineer or Software Developer, where I can apply my skills in AI, software development, and robotics. I aim to contribute to cutting-edge AI applications in automation, manufacturing, and smart vision systems.
