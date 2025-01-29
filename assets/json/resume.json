@@ -6,12 +6,12 @@
     "email": "anuragsahu926@gmail.com",
     "phone": "+(91) 8602043478",
     "url": "https://anuragsahu.github.io/",
-    "summary": "IIIT Hyderabad graduate working with OLA Electric Developing Computer Vision Based Inspection Systems",
+    "summary": "Software Development & Computer Vision, OlaElectric | IIIT-H",
     "location": {
       "address": "",
       "postalCode": "",
       "city": "Bengaluru",
-      "countryCode": "",
+      "countryCode": "+91",
       "region": ""
     },
     "profiles": [
@@ -23,14 +23,31 @@
     ]
   },
   "work": [
+    
     {
       "name": "Ola Electric",
-      "position": "Software Development Engineer-I",
+      "position": "Software Development Engineer 2",
       "url": "",
-      "startDate": "2022-05-15",
+      "startDate": "2024-06-14",
       "endDate": "",
       "summary": "Developing Computer Vision Based Inspection Systems",
-      "highlights": ["Computer Vision", "Backend Systems"]
+      "highlights" : ["Designed and implemented AI‑based vision pipelines for robot‑based pick and place, leveraging segmentation models and depth filters for precise operations.",
+                      "Architected and deployed 3D inspection systems, including camera calibration and end‑to‑end software pipelines, on edge devices and Servers for real‑time manufacturing applications.",
+                      "Led the training and integration of YOLOv8‑based object detection and segmentation models into vision inspection systems, improving defect detection accuracy and speed.",
+                      "Collaborated across teams to deploy scalable solutions for manufacturing automation using computer vision and deep learning techniques."]
+    },
+    {
+      "name": "Ola Electric",
+      "position": "Software Development Engineer 1",
+      "url": "",
+      "startDate": "2022-05-15",
+      "endDate": "2024-06-14",
+      "summary": "Developing Computer Vision Based Inspection Systems",
+      "highlights": ["Developed and maintained a Manufacturing Execution System (MES) that integrated data from PLCs and manual inputs, enabling real‑time dashboards and reporting for factory operations.",
+                     "Led development from PoC to production, architecting a Python‑based MES with PostgreSQL for scalable data handling and analytics.",
+                     "Reduced inspection system cycle time from 20 seconds to 2 seconds through parallelization of tasks and optimization of data pipelines.",
+                     "Implemented various computer vision inspection systems for 2D and 3D applications on edge and cloud platforms, enabling precise defect detection and dimension measurement.",
+                     "Conducted multi‑camera calibration for 3D dimension measurement systems, enhancing accuracy and reliability in manufacturing workflows."]
     }
   ],
   "volunteer": [
@@ -64,7 +81,7 @@
       "date": "2020-06-01",
       "awarder": "IIIT Hyderabad",
       "url": "",
-      "summary": "An Award present to Student who are in top 5% of the class."
+      "summary": "An Award present to Student in top 5% of the class."
     }
   ],
   "certificates": [
