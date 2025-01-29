@@ -56,8 +56,26 @@
             </a>
           </li>
 
+          <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/' | relative_url }}">
+              {{- cv_title }}
+              {% if page.permalink == '/cv/' %}
+                <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>
+
+          <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/' | relative_url }}">
+              {{- projects_title }}
+              {% if page.permalink == '/projects/' %}
+                <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>
+
           <!-- Other pages -->
-          {% assign sorted_pages = site.pages | sort: 'nav_order' %}
+          <!-- {% assign sorted_pages = site.pages | sort: 'nav_order' %}
           {% for p in sorted_pages %}
             {% if p.nav and p.autogen == null %}
               {% if p.dropdown %}
@@ -107,6 +125,7 @@
               {% endif %}
             {% endif %}
           {% endfor %}
+-->
           {% if site.search_enabled %}
             <!-- Search -->
             <li class="nav-item">
