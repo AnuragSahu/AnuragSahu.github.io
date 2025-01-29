@@ -56,6 +56,16 @@
             </a>
           </li>
 
+          <!-- About 1 -->
+          <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/cv' | relative_url }}">
+              {{- about_title }}_1
+              {% if page.permalink == '/' %}
+                <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>
+
           <!-- CV -->
           <li class="nav-item {% if page.permalink == '/cv/' %}active{% endif %}">
             <a class="nav-link" href="{{ '/cv/' | relative_url }}">
@@ -117,8 +127,8 @@
                 </li>
               {% endif %}
             {% endif %}
-          {% endfor %}
--->
+          {% endfor %}-->
+
           {% if site.search_enabled %}
             <!-- Search -->
             <li class="nav-item">
