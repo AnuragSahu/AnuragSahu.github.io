@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Computer Vision & Software Development @ <a href='https://www.olaelectric.com/'> OLA </a> | <a href='https://www.iiit.ac.in/'>IIIT Hyderabad</a>
 
